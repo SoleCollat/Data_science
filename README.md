@@ -1,2 +1,7 @@
-# sf_data_scence
-SF
+# My Projects
+
+
+
+##  Projects
+
+* [Project 0. Predict a number.](https://github.com/SoleCollat/Data_sciense/tree/main/Project_0)
